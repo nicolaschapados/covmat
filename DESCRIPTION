@@ -19,7 +19,6 @@ Suggests: knitr, knitcitations, testthat, roxygen2, quantmod, PortfolioAnalytics
 VignetteBuilder: knitr
 LazyLoad: yes
 Imports: 
-  factorAnalytics,
   zoo,
   xts,
   robust, 
